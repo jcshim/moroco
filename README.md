@@ -9,6 +9,6 @@
 
 ## Yeonghan Lee, Dongju Lim, and Jaechang Shim, "Data Labelling Research for Deep Learning Based Fire Detection System"
 
-## Wahban Al Okaishi, Abdelmoghit Zaarane, Ibtissam Slimani, Issam Atuof and Mohamed Benrabh, "A Traffic Surveillance System in Real-Time to Detect and Classify Vehicles by Using Convolutional Neural Neteork"
+## Wahban Al Okaishi, Abdelmoghit Zaarane, Ibtissam Slimani, Issam Atuof, and Mohamed Benrabh, "A Traffic Surveillance System in Real-Time to Detect and Classify Vehicles by Using Convolutional Neural Neteork"
 
-## Mourad Fariss, Naoufal El Allali, Hakima Asaidi and Mohamed Bellouki, "Prefiltering Approach for Web Service Selection Based on QoS"
+## Mourad Fariss, Naoufal El Allali, Hakima Asaidi, and Mohamed Bellouki, "Prefiltering Approach for Web Service Selection Based on QoS"
